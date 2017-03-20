@@ -1,0 +1,8 @@
+/home/iac3/nil-tools/imgreg_4dfp OAS1_0047_MR1_mpr-1_anon OAS1_0047_MR1_mpr-1_anon_mskt OAS1_0047_MR1_mpr-4_anon none OAS1_0047_MR1_mpr-4_anon_to_OAS1_0047_MR1_mpr-1_anon_t4 10507 
+$Id: imgreg_4dfp.c,v 1.10 1999/02/03 08:16:33 avi Exp rsachs $
+t4
+  0.999216 -0.008569 -0.015720    0.6919
+  0.008213  0.999984 -0.023022    0.1163
+  0.015920  0.022878  0.999416   -0.1185
+  0.000000  0.000000  0.000000    1.0000
+scale:      0.996848
